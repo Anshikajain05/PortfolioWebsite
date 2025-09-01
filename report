@@ -1,0 +1,34 @@
+Task 1: Portfolio Website
+Objective
+
+Design and develop a personal portfolio website to showcase projects, skills, and contact information with a clean, professional, and responsive UI.
+
+Implementation
+
+Technology stack: HTML, CSS, JavaScript, Tailwind CSS (for styling).
+
+Features implemented:
+
+Home page with introduction and personal details.
+
+Projects section with cards showcasing completed works.
+
+About section highlighting skills, education, and experience.
+
+Contact form for communication.
+
+Design choices:
+
+Light color theme for professional aesthetics.
+
+Responsive grid-based layout using Tailwind CSS.
+
+Project cards with images and hover effects.
+
+Impact
+
+Created a professional online presence.
+
+Improved UI/UX with responsive design for mobile and desktop.
+
+Portfolio serves as a showcase for recruiters and clients.
