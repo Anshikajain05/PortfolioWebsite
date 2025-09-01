@@ -23,7 +23,7 @@ export default function Projects() {
     {
       title: "Interactive Portfolio",
       description: "This portfolio — built with React & Tailwind.",
-      github: "#",
+      github: "https://github.com/Anshikajain05/PortfolioWebsite",
      // demo: "#",
       image: PortfolioImg
     },

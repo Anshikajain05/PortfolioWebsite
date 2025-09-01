@@ -6,7 +6,7 @@ import Skills from "./components/Skills.jsx";
 import Projects from "./components/Projects.jsx";
 import Achievements from "./components/Achievements.jsx";
 import Education from "./components/Education.jsx";
-import Contact from "./components/contact.jsx";
+import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 import FloatingResumeButton from "./components/FloatingResumeButton.jsx";
 
